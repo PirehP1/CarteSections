@@ -225,7 +225,7 @@ def plot_squares(sections, intensities, texte, grid_width=4, cmap='viridis', tit
 # Exemple d'utilisation avec les nouvelles données
 sections = [1, 1, 1, 1, 2, 2,3,3,4]
 intensities = [0.5, 0.3, 0.5, 0.7, 0.0, 0.4, 0.2,0.2,0.90]
-texte = ["balabala", "Chouette ça", "On va s'amuser dis donc", "andré ton esprit est là", "pireh power", 2, "le texte peut-être assez long en fait et il faudra penser aux débordements0000", 4, "etle neuf"]
+texte = ["Ce script", "a été produit", "par Stéphane Lamassé", "sur l'inspiration des cartes de sections de Lexico3", ". Et cela, dans le cadre d'une recherche conduite", "à l'Université Paris 1 Panthéon-Sorbonne", " dans l'équipe du Pireh", "", ""]
 
 grid_width = 3
 
