@@ -5,4 +5,5 @@ Ce n'est pas une tentative de simple reproduction de la carte des sections produ
 
 Bibliothèques 
 
-[[https://matplotlib.org/][matplotlib]]
+
+[matplotlib]([http://example.com](https://matplotlib.org/)https://matplotlib.org/)
